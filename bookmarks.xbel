@@ -3,20 +3,8 @@
 <xbel version="1.0">
 <!--- highestId :141: for Floccus bookmark sync browser extension -->
 
-<folder id="1">
-  <title>Bookmarks Bar</title>
-</folder>
-<folder id="2">
-  <title>Other Bookmarks</title>
-</folder>
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
-</bookmark>
-<bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
-  <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
-</bookmark>
-<bookmark href="https://linux.do/" id="11">
-  <title>LINUX DO - 新的理想型社区</title>
 </bookmark>
 <folder id="4">
   <title>AI</title>
@@ -206,7 +194,7 @@
       <title>labuladong 的算法笔记</title>
     </bookmark>
     <bookmark href="https://leetcode.cn/" id="88">
-      <title>力扣 </title>
+      <title>力扣</title>
     </bookmark>
     <bookmark href="https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/" id="89">
       <title>分享｜如何科学刷题？ - 讨论 - 力扣（LeetCode）</title>
@@ -350,7 +338,7 @@
       <title>GitHub</title>
     </bookmark>
     <bookmark href="https://ghfast.top/" id="120">
-      <title>GitHub Proxy </title>
+      <title>GitHub Proxy</title>
     </bookmark>
     <bookmark href="https://gitee.com/" id="121">
       <title>工作台 - Gitee.com</title>
@@ -417,6 +405,12 @@
     <title>人工智能</title>
   </bookmark>
 </folder>
+<bookmark href="https://linux.do/" id="11">
+  <title>LINUX DO - 新的理想型社区</title>
+</bookmark>
+<bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
+  <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
+</bookmark>
 <bookmark href="https://github.com/ystemsrx/fuck-educoder-paste" id="132">
   <title>ystemsrx/fuck-educoder-paste: 最新可用 - 完美解决【头歌 / 学习通】禁止复制粘贴问题</title>
 </bookmark>
