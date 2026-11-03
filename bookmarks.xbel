@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :141: for Floccus bookmark sync browser extension -->
+<!--- highestId :142: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
@@ -321,6 +321,9 @@
     </bookmark>
     <bookmark href="https://app.wyx66.com/" id="116">
       <title>邮箱管理系统</title>
+    </bookmark>
+    <bookmark href="https://mail.163.com/js6/main.jsp?sid=bLkTDwjNUPPZQAPfqIrjamKpCYNDINdN&amp;df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D" id="142">
+      <title>xujiajian4457网易邮箱</title>
     </bookmark>
   </folder>
   <folder id="38">
