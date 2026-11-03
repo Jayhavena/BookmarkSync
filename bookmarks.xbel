@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :142: for Floccus bookmark sync browser extension -->
+<!--- highestId :144: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
@@ -414,13 +414,19 @@
     <title>DeepSeek Harness 插件市场 - DSH Plugin 插件大全（下载与安装）</title>
   </bookmark>
 </folder>
-<bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
-  <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
-</bookmark>
+<folder id="143">
+  <title>官方文档</title>
+  <bookmark href="https://dev.mysql.com/doc/refman/8.4/en/innodb-storage-engine.html" id="144">
+    <title>MySQL</title>
+  </bookmark>
+</folder>
 <bookmark href="https://leetcode.cn/studyplan/top-100-liked/" id="90">
   <title>LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
 </bookmark>
 <bookmark href="https://linux.do/" id="11">
   <title>LINUX DO - 新的理想型社区</title>
+</bookmark>
+<bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
+  <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
 </bookmark>
 </xbel>
