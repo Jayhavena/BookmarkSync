@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :147: for Floccus bookmark sync browser extension -->
+<!--- highestId :148: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
@@ -327,9 +327,6 @@
     <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
   </bookmark>
 </folder>
-<bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
-  <title>Go | OpenCode Console</title>
-</bookmark>
 <folder id="26">
   <title>前端文档</title>
   <bookmark href="https://developer.mozilla.org/zh-CN/" id="64">
@@ -426,7 +423,13 @@
     <title>高频 SQL 50 题（基础版） - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
   </bookmark>
 </folder>
+<bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
+  <title>Go | OpenCode Console</title>
+</bookmark>
 <bookmark href="https://github.com/adongwanai/AgentGuide/blob/main/docs/02-tech-stack/agent-evaluation-complete-guide.md#6-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%AB%E6%AD%A5%E8%B7%AF%E7%BA%BF%E5%9B%BE" id="147">
   <title>AgentGuide/docs/02-tech-stack/agent-evaluation-complete-guide.md at main · adongwanai/AgentGuide</title>
+</bookmark>
+<bookmark href="https://github.com/sherlock-project/sherlock" id="148">
+  <title>sherlock-project/sherlock: Hunt down social media accounts by username across social networks</title>
 </bookmark>
 </xbel>
