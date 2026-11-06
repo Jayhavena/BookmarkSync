@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :146: for Floccus bookmark sync browser extension -->
+<!--- highestId :147: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
 </bookmark>
+<folder id="4">
+  <title>AI</title>
+  <bookmark href="https://platform.xiaomimimo.com/docs/zh-CN/welcome" id="12">
+    <title>Xiaomi MiMo 开放平台</title>
+  </bookmark>
+  <bookmark href="https://platform.sensenova.cn/console" id="13">
+    <title>SenseNova · LLM API 服务平台</title>
+  </bookmark>
+  <bookmark href="https://deepseek.com/" id="14">
+    <title>DeepSeek | 深度求索</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="15">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/?utm_source=google&amp;utm_medium=paid_search&amp;utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_APAC_MY_EN_032425&amp;c_id=22376786383&amp;c_agid=179855042151&amp;c_crid=741444411352&amp;c_kwid=kwd-1927227100722&amp;c_ims=&amp;c_pms=1010274&amp;c_nw=g&amp;c_dvc=c&amp;gad_source=1&amp;gad_campaignid=22376786383&amp;gbraid=0AAAAA-I0E5ciQ-ch0aCPG1VJ3vSGNIfL0&amp;gclid=CjwKCAjwqazPBhALEiwAOuXqdCzNrUOBO3xAba8g06DifOSda9K6R3uqvXoxqIguC5k1qDp3E2WDrhoCzcIQAvD_BwE" id="16">
+    <title>ChatGPT</title>
+  </bookmark>
+</folder>
 <folder id="5">
   <title>coures</title>
   <bookmark href="https://onlineweb.zhihuishu.com/onlinestuh5" id="17">
@@ -47,24 +65,6 @@
   <bookmark href="https://www.itbaima.cn/zh-CN" id="24">
     <title>柏码</title>
   </bookmark>
-  <folder id="4">
-    <title>AI</title>
-    <bookmark href="https://platform.xiaomimimo.com/docs/zh-CN/welcome" id="12">
-      <title>Xiaomi MiMo 开放平台</title>
-    </bookmark>
-    <bookmark href="https://platform.sensenova.cn/console" id="13">
-      <title>SenseNova · LLM API 服务平台</title>
-    </bookmark>
-    <bookmark href="https://deepseek.com/" id="14">
-      <title>DeepSeek | 深度求索</title>
-    </bookmark>
-    <bookmark href="https://gemini.google.com/app" id="15">
-      <title>Google Gemini</title>
-    </bookmark>
-    <bookmark href="https://chatgpt.com/?utm_source=google&amp;utm_medium=paid_search&amp;utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_APAC_MY_EN_032425&amp;c_id=22376786383&amp;c_agid=179855042151&amp;c_crid=741444411352&amp;c_kwid=kwd-1927227100722&amp;c_ims=&amp;c_pms=1010274&amp;c_nw=g&amp;c_dvc=c&amp;gad_source=1&amp;gad_campaignid=22376786383&amp;gbraid=0AAAAA-I0E5ciQ-ch0aCPG1VJ3vSGNIfL0&amp;gclid=CjwKCAjwqazPBhALEiwAOuXqdCzNrUOBO3xAba8g06DifOSda9K6R3uqvXoxqIguC5k1qDp3E2WDrhoCzcIQAvD_BwE" id="16">
-      <title>ChatGPT</title>
-    </bookmark>
-  </folder>
   <folder id="25">
     <title>Job</title>
     <bookmark href="https://www.zhipin.com/guangzhou/?seoRefer=index" id="58">
@@ -327,6 +327,9 @@
     <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
   </bookmark>
 </folder>
+<bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
+  <title>Go | OpenCode Console</title>
+</bookmark>
 <folder id="26">
   <title>前端文档</title>
   <bookmark href="https://developer.mozilla.org/zh-CN/" id="64">
@@ -423,7 +426,7 @@
     <title>高频 SQL 50 题（基础版） - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
   </bookmark>
 </folder>
-<bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
-  <title>Go | OpenCode Console</title>
+<bookmark href="https://github.com/adongwanai/AgentGuide/blob/main/docs/02-tech-stack/agent-evaluation-complete-guide.md#6-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%AB%E6%AD%A5%E8%B7%AF%E7%BA%BF%E5%9B%BE" id="147">
+  <title>AgentGuide/docs/02-tech-stack/agent-evaluation-complete-guide.md at main · adongwanai/AgentGuide</title>
 </bookmark>
 </xbel>
