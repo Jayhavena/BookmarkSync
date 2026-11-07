@@ -128,18 +128,6 @@
       <title>我的大学客户端开发学习之路（二）技术学习与个人成长 - 知乎</title>
     </bookmark>
   </folder>
-  <folder id="30">
-    <title>鱼皮</title>
-    <bookmark href="https://algo.codefather.cn/" id="84">
-      <title>算法导航</title>
-    </bookmark>
-    <bookmark href="https://ai.codefather.cn/" id="85">
-      <title>鱼皮AI导航</title>
-    </bookmark>
-    <bookmark href="https://www.codefather.cn/" id="86">
-      <title>编程导航</title>
-    </bookmark>
-  </folder>
   <folder id="32">
     <title>开发者社区</title>
     <bookmark href="https://www.zhihu.com/" id="92">
@@ -169,13 +157,121 @@
         <title>lvy--CSDN博客</title>
       </bookmark>
     </folder>
+    <folder id="30">
+      <title>鱼皮</title>
+      <bookmark href="https://algo.codefather.cn/" id="84">
+        <title>算法导航</title>
+      </bookmark>
+      <bookmark href="https://ai.codefather.cn/" id="85">
+        <title>鱼皮AI导航</title>
+      </bookmark>
+      <bookmark href="https://www.codefather.cn/" id="86">
+        <title>编程导航</title>
+      </bookmark>
+    </folder>
   </folder>
-  <folder id="140">
-    <title>知乎专栏</title>
-    <bookmark href="https://zhuanlan.zhihu.com/p/2058281342476064718" id="141">
-      <title>数据驱动的 Harness 训练：迭代式审计与 AI 产物的质量控制 - 知乎</title>
-    </bookmark>
-  </folder>
+</folder>
+<folder id="26">
+  <title>前端文档</title>
+  <bookmark href="https://developer.mozilla.org/zh-CN/" id="64">
+    <title>MDN Web Docs</title>
+  </bookmark>
+  <bookmark href="https://zh-hans.react.dev/" id="65">
+    <title>React 官方中文文档</title>
+  </bookmark>
+  <bookmark href="https://www.tslang.com.cn/zh/docs/handbook/2/basic-types.html" id="66">
+    <title>TypeScript 中文文档：Documentation - 基础</title>
+  </bookmark>
+  <bookmark href="https://zh.javascript.info/" id="67">
+    <title>现代 JavaScript 教程</title>
+  </bookmark>
+  <bookmark href="https://www.tailwindcss.cn/" id="68">
+    <title>Tailwind CSS - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站。 | TailwindCSS中文文档 | TailwindCSS中文网</title>
+  </bookmark>
+  <bookmark href="https://cn.vuejs.org/" id="69">
+    <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
+  </bookmark>
+  <bookmark href="https://www.axios-http.cn/docs/intro" id="70">
+    <title>起步 | Axios中文文档 | Axios中文网</title>
+  </bookmark>
+  <bookmark href="https://eslint.org/" id="71">
+    <title>eslint</title>
+  </bookmark>
+  <bookmark href="https://element-plus.org/" id="72">
+    <title>Element Plus</title>
+  </bookmark>
+  <bookmark href="https://vitejs.cn/vite3-cn/guide/" id="73">
+    <title>Vite 官方中文文档</title>
+  </bookmark>
+  <bookmark href="https://www.webpackjs.com/concepts/" id="139">
+    <title>webpack 中文文档</title>
+  </bookmark>
+</folder>
+<folder id="127">
+  <title>AI框架学习</title>
+  <bookmark href="https://blog.csdn.net/Sunhen_Qiletian/article/details/159317568?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=Langchain%E6%9C%80%E8%AF%A6%E7%BB%86&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-159317568.142^v102^control&amp;spm=1018.2226.3001.4187" id="135">
+    <title>LangChain最详细教程之使用概述（一）_langchain使用-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://springframework.org.cn/projects/spring-ai/" id="136">
+    <title>Spring AI - Spring 框架</title>
+  </bookmark>
+  <bookmark href="https://agentscope.io/" id="137">
+    <title>AgentScope — Where Agents Come Alive</title>
+  </bookmark>
+  <bookmark href="https://ragflow.com.cn/" id="138">
+    <title>RAGFlow 引擎</title>
+  </bookmark>
+</folder>
+<folder id="33">
+  <title>八股分享</title>
+  <bookmark href="https://www.mianshiya.com/" id="97">
+    <title>面试鸭</title>
+  </bookmark>
+  <bookmark href="https://javaup.chat/" id="98">
+    <title>Java技术知识库与实战项目 | JavaUp 技术&amp;实战</title>
+  </bookmark>
+  <bookmark href="https://xiaolincoding.com/" id="99">
+    <title>小林coding - 从图解计算机到后端面试全攻略</title>
+  </bookmark>
+  <bookmark href="https://javaguide.cn/" id="100">
+    <title>JavaGuide - 沉浸式阅读中</title>
+  </bookmark>
+  <bookmark href="https://javabetter.cn/" id="101">
+    <title>主页 | 二哥的Java进阶之路</title>
+  </bookmark>
+  <bookmark href="https://caomaolufei.github.io/AIInfraGuide/" id="102">
+    <title>AIInfraGuide - AI Infra全栈知识库</title>
+  </bookmark>
+  <bookmark href="https://programmercarl.com/" id="103">
+    <title>代码随想录-全网最全算法数据结构刷题学习路线|图文+视频教程|免费开源</title>
+  </bookmark>
+  <bookmark href="https://notes.kamacoder.com/" id="104">
+    <title>卡码笔记｜程序员面试题库，Java、C++、Go、Agent、大模型八股文</title>
+  </bookmark>
+  <bookmark href="https://juejin.cn/post/7628162491726102528" id="105">
+    <title>智能体面经</title>
+  </bookmark>
+</folder>
+<folder id="31">
+  <title>算法学习</title>
+  <bookmark href="https://labuladong.online/zh/" id="87">
+    <title>labuladong 的算法笔记</title>
+  </bookmark>
+  <bookmark href="https://leetcode.cn/" id="88">
+    <title>力扣</title>
+  </bookmark>
+  <bookmark href="https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/" id="89">
+    <title>分享｜如何科学刷题？ - 讨论 - 力扣（LeetCode）</title>
+  </bookmark>
+  <bookmark href="https://leetcode.cn/studyplan/sql-free-50/" id="91">
+    <title>高频 SQL 50 题（基础版） - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
+  </bookmark>
+</folder>
+<folder id="140">
+  <title>知乎专栏</title>
+  <bookmark href="https://zhuanlan.zhihu.com/p/2058281342476064718" id="141">
+    <title>数据驱动的 Harness 训练：迭代式审计与 AI 产物的质量控制 - 知乎</title>
+  </bookmark>
 </folder>
 <folder id="9">
   <title>杂.</title>
@@ -325,102 +421,6 @@
   </bookmark>
   <bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
     <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
-  </bookmark>
-</folder>
-<folder id="26">
-  <title>前端文档</title>
-  <bookmark href="https://developer.mozilla.org/zh-CN/" id="64">
-    <title>MDN Web Docs</title>
-  </bookmark>
-  <bookmark href="https://zh-hans.react.dev/" id="65">
-    <title>React 官方中文文档</title>
-  </bookmark>
-  <bookmark href="https://www.tslang.com.cn/zh/docs/handbook/2/basic-types.html" id="66">
-    <title>TypeScript 中文文档：Documentation - 基础</title>
-  </bookmark>
-  <bookmark href="https://zh.javascript.info/" id="67">
-    <title>现代 JavaScript 教程</title>
-  </bookmark>
-  <bookmark href="https://www.tailwindcss.cn/" id="68">
-    <title>Tailwind CSS - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站。 | TailwindCSS中文文档 | TailwindCSS中文网</title>
-  </bookmark>
-  <bookmark href="https://cn.vuejs.org/" id="69">
-    <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
-  </bookmark>
-  <bookmark href="https://www.axios-http.cn/docs/intro" id="70">
-    <title>起步 | Axios中文文档 | Axios中文网</title>
-  </bookmark>
-  <bookmark href="https://eslint.org/" id="71">
-    <title>eslint</title>
-  </bookmark>
-  <bookmark href="https://element-plus.org/" id="72">
-    <title>Element Plus</title>
-  </bookmark>
-  <bookmark href="https://vitejs.cn/vite3-cn/guide/" id="73">
-    <title>Vite 官方中文文档</title>
-  </bookmark>
-  <bookmark href="https://www.webpackjs.com/concepts/" id="139">
-    <title>webpack 中文文档</title>
-  </bookmark>
-</folder>
-<folder id="127">
-  <title>AI框架学习</title>
-  <bookmark href="https://blog.csdn.net/Sunhen_Qiletian/article/details/159317568?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=Langchain%E6%9C%80%E8%AF%A6%E7%BB%86&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-159317568.142^v102^control&amp;spm=1018.2226.3001.4187" id="135">
-    <title>LangChain最详细教程之使用概述（一）_langchain使用-CSDN博客</title>
-  </bookmark>
-  <bookmark href="https://springframework.org.cn/projects/spring-ai/" id="136">
-    <title>Spring AI - Spring 框架</title>
-  </bookmark>
-  <bookmark href="https://agentscope.io/" id="137">
-    <title>AgentScope — Where Agents Come Alive</title>
-  </bookmark>
-  <bookmark href="https://ragflow.com.cn/" id="138">
-    <title>RAGFlow 引擎</title>
-  </bookmark>
-</folder>
-<folder id="33">
-  <title>八股分享</title>
-  <bookmark href="https://www.mianshiya.com/" id="97">
-    <title>面试鸭</title>
-  </bookmark>
-  <bookmark href="https://javaup.chat/" id="98">
-    <title>Java技术知识库与实战项目 | JavaUp 技术&amp;实战</title>
-  </bookmark>
-  <bookmark href="https://xiaolincoding.com/" id="99">
-    <title>小林coding - 从图解计算机到后端面试全攻略</title>
-  </bookmark>
-  <bookmark href="https://javaguide.cn/" id="100">
-    <title>JavaGuide - 沉浸式阅读中</title>
-  </bookmark>
-  <bookmark href="https://javabetter.cn/" id="101">
-    <title>主页 | 二哥的Java进阶之路</title>
-  </bookmark>
-  <bookmark href="https://caomaolufei.github.io/AIInfraGuide/" id="102">
-    <title>AIInfraGuide - AI Infra全栈知识库</title>
-  </bookmark>
-  <bookmark href="https://programmercarl.com/" id="103">
-    <title>代码随想录-全网最全算法数据结构刷题学习路线|图文+视频教程|免费开源</title>
-  </bookmark>
-  <bookmark href="https://notes.kamacoder.com/" id="104">
-    <title>卡码笔记｜程序员面试题库，Java、C++、Go、Agent、大模型八股文</title>
-  </bookmark>
-  <bookmark href="https://juejin.cn/post/7628162491726102528" id="105">
-    <title>智能体面经</title>
-  </bookmark>
-</folder>
-<folder id="31">
-  <title>算法学习</title>
-  <bookmark href="https://labuladong.online/zh/" id="87">
-    <title>labuladong 的算法笔记</title>
-  </bookmark>
-  <bookmark href="https://leetcode.cn/" id="88">
-    <title>力扣</title>
-  </bookmark>
-  <bookmark href="https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/" id="89">
-    <title>分享｜如何科学刷题？ - 讨论 - 力扣（LeetCode）</title>
-  </bookmark>
-  <bookmark href="https://leetcode.cn/studyplan/sql-free-50/" id="91">
-    <title>高频 SQL 50 题（基础版） - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
   </bookmark>
 </folder>
 <bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
