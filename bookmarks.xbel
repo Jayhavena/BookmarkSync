@@ -157,18 +157,24 @@
         <title>lvy--CSDN博客</title>
       </bookmark>
     </folder>
-    <folder id="30">
-      <title>鱼皮</title>
-      <bookmark href="https://algo.codefather.cn/" id="84">
-        <title>算法导航</title>
-      </bookmark>
-      <bookmark href="https://ai.codefather.cn/" id="85">
-        <title>鱼皮AI导航</title>
-      </bookmark>
-      <bookmark href="https://www.codefather.cn/" id="86">
-        <title>编程导航</title>
-      </bookmark>
-    </folder>
+  </folder>
+  <folder id="30">
+    <title>鱼皮</title>
+    <bookmark href="https://algo.codefather.cn/" id="84">
+      <title>算法导航</title>
+    </bookmark>
+    <bookmark href="https://ai.codefather.cn/" id="85">
+      <title>鱼皮AI导航</title>
+    </bookmark>
+    <bookmark href="https://www.codefather.cn/" id="86">
+      <title>编程导航</title>
+    </bookmark>
+  </folder>
+  <folder id="140">
+    <title>知乎专栏</title>
+    <bookmark href="https://zhuanlan.zhihu.com/p/2058281342476064718" id="141">
+      <title>数据驱动的 Harness 训练：迭代式审计与 AI 产物的质量控制 - 知乎</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="26">
@@ -265,12 +271,6 @@
   </bookmark>
   <bookmark href="https://leetcode.cn/studyplan/sql-free-50/" id="91">
     <title>高频 SQL 50 题（基础版） - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
-  </bookmark>
-</folder>
-<folder id="140">
-  <title>知乎专栏</title>
-  <bookmark href="https://zhuanlan.zhihu.com/p/2058281342476064718" id="141">
-    <title>数据驱动的 Harness 训练：迭代式审计与 AI 产物的质量控制 - 知乎</title>
   </bookmark>
 </folder>
 <folder id="9">
