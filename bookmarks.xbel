@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :148: for Floccus bookmark sync browser extension -->
+<!--- highestId :160: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
 </bookmark>
 <folder id="4">
   <title>AI</title>
-  <bookmark href="https://platform.xiaomimimo.com/docs/zh-CN/welcome" id="12">
-    <title>Xiaomi MiMo 开放平台</title>
-  </bookmark>
-  <bookmark href="https://platform.sensenova.cn/console" id="13">
-    <title>SenseNova · LLM API 服务平台</title>
-  </bookmark>
   <bookmark href="https://deepseek.com/" id="14">
     <title>DeepSeek | 深度求索</title>
   </bookmark>
@@ -22,6 +16,12 @@
   </bookmark>
   <bookmark href="https://chatgpt.com/?utm_source=google&amp;utm_medium=paid_search&amp;utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_APAC_MY_EN_032425&amp;c_id=22376786383&amp;c_agid=179855042151&amp;c_crid=741444411352&amp;c_kwid=kwd-1927227100722&amp;c_ims=&amp;c_pms=1010274&amp;c_nw=g&amp;c_dvc=c&amp;gad_source=1&amp;gad_campaignid=22376786383&amp;gbraid=0AAAAA-I0E5ciQ-ch0aCPG1VJ3vSGNIfL0&amp;gclid=CjwKCAjwqazPBhALEiwAOuXqdCzNrUOBO3xAba8g06DifOSda9K6R3uqvXoxqIguC5k1qDp3E2WDrhoCzcIQAvD_BwE" id="16">
     <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
+    <title>Go | OpenCode Console</title>
+  </bookmark>
+  <bookmark href="https://open-design.ai/zh/" id="133">
+    <title>OpenDesign —— 最佳 Claude Design 开源替代</title>
   </bookmark>
 </folder>
 <folder id="5">
@@ -86,36 +86,6 @@
       <title>国家公务员考试_2027年国家公务员报名时间|报名入口|职位表_国家公务员考试录用系统</title>
     </bookmark>
   </folder>
-  <folder id="27">
-    <title>项目学习</title>
-    <folder id="74">
-      <title>苍穹外卖</title>
-      <bookmark href="https://blog.csdn.net/ruanfun/article/details/132655720?ops_request_misc=elastic_search_misc&amp;request_id=73224f577d9858ba71e7dc746afa07ad&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-132655720-null-null.142^v102^control&amp;utm_term=%E8%8B%8D%E7%A9%B9%E5%A4%96%E5%8D%96&amp;spm=1018.2226.3001.4187" id="122">
-        <title>上</title>
-      </bookmark>
-      <bookmark href="https://blog.csdn.net/RuanFun/article/details/135861498?spm=1001.2014.3001.5502" id="123">
-        <title>中</title>
-      </bookmark>
-      <bookmark href="https://blog.csdn.net/RuanFun/article/details/135954214?spm=1001.2014.3001.5502" id="124">
-        <title>下</title>
-      </bookmark>
-    </folder>
-    <folder id="75">
-      <title>DoVideoAI</title>
-      <bookmark href="https://my.feishu.cn/wiki/K5PzwchG3iU8gLk8eomcqGIUnDe" id="125">
-        <title>⁠‍​⁠​⁠‍​​​‍​‍‬⁠‌​​​‌​​​​⁠‬‬​​‍﻿‬⁠​​​​⁠‬‌​​‍​​‌‬​​项目拷打 副本 - 飞书云文档</title>
-      </bookmark>
-      <bookmark href="https://github.com/Xiaoc7r/DOVideo-AI" id="126">
-        <title>Xiaoc7r/DOVideo-AI: 一个面向长视频内容理解的 Video Agent 平台。</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://huacaibc.com/" id="76">
-      <title>花菜编程网 - 专业编程学习平台</title>
-    </bookmark>
-    <bookmark href="https://didilili.github.io/ai-agents-from-zero/#/" id="77">
-      <title>AI 智能体实战速成指南：从零到企业级落地 | ai-agents-from-zero</title>
-    </bookmark>
-  </folder>
   <folder id="29">
     <title>学习路线</title>
     <bookmark href="https://www.yuque.com/ljx1230/kpcla1/qsr5uvko52ylln46" id="81">
@@ -145,6 +115,9 @@
     <bookmark href="https://maimai.cn/" id="96">
       <title>脉脉-成就职业梦想</title>
     </bookmark>
+    <bookmark href="https://linux.do/" id="11">
+      <title>LINUX DO - 新的理想型社区</title>
+    </bookmark>
     <folder id="28">
       <title>个人博客</title>
       <bookmark href="https://lvyovo-wiki.tech/" id="78">
@@ -170,93 +143,6 @@
       <title>编程导航</title>
     </bookmark>
   </folder>
-  <folder id="140">
-    <title>知乎专栏</title>
-    <bookmark href="https://zhuanlan.zhihu.com/p/2058281342476064718" id="141">
-      <title>数据驱动的 Harness 训练：迭代式审计与 AI 产物的质量控制 - 知乎</title>
-    </bookmark>
-  </folder>
-  <folder id="26">
-    <title>前端文档</title>
-    <bookmark href="https://developer.mozilla.org/zh-CN/" id="64">
-      <title>MDN Web Docs</title>
-    </bookmark>
-    <bookmark href="https://zh-hans.react.dev/" id="65">
-      <title>React 官方中文文档</title>
-    </bookmark>
-    <bookmark href="https://www.tslang.com.cn/zh/docs/handbook/2/basic-types.html" id="66">
-      <title>TypeScript 中文文档：Documentation - 基础</title>
-    </bookmark>
-    <bookmark href="https://zh.javascript.info/" id="67">
-      <title>现代 JavaScript 教程</title>
-    </bookmark>
-    <bookmark href="https://www.tailwindcss.cn/" id="68">
-      <title>Tailwind CSS - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站。 | TailwindCSS中文文档 | TailwindCSS中文网</title>
-    </bookmark>
-    <bookmark href="https://cn.vuejs.org/" id="69">
-      <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
-    </bookmark>
-    <bookmark href="https://www.axios-http.cn/docs/intro" id="70">
-      <title>起步 | Axios中文文档 | Axios中文网</title>
-    </bookmark>
-    <bookmark href="https://eslint.org/" id="71">
-      <title>eslint</title>
-    </bookmark>
-    <bookmark href="https://element-plus.org/" id="72">
-      <title>Element Plus</title>
-    </bookmark>
-    <bookmark href="https://vitejs.cn/vite3-cn/guide/" id="73">
-      <title>Vite 官方中文文档</title>
-    </bookmark>
-    <bookmark href="https://www.webpackjs.com/concepts/" id="139">
-      <title>webpack 中文文档</title>
-    </bookmark>
-  </folder>
-  <folder id="127">
-    <title>AI框架学习</title>
-    <bookmark href="https://blog.csdn.net/Sunhen_Qiletian/article/details/159317568?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=Langchain%E6%9C%80%E8%AF%A6%E7%BB%86&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-159317568.142^v102^control&amp;spm=1018.2226.3001.4187" id="135">
-      <title>LangChain最详细教程之使用概述（一）_langchain使用-CSDN博客</title>
-    </bookmark>
-    <bookmark href="https://springframework.org.cn/projects/spring-ai/" id="136">
-      <title>Spring AI - Spring 框架</title>
-    </bookmark>
-    <bookmark href="https://agentscope.io/" id="137">
-      <title>AgentScope — Where Agents Come Alive</title>
-    </bookmark>
-    <bookmark href="https://ragflow.com.cn/" id="138">
-      <title>RAGFlow 引擎</title>
-    </bookmark>
-  </folder>
-  <folder id="33">
-    <title>八股分享</title>
-    <bookmark href="https://www.mianshiya.com/" id="97">
-      <title>面试鸭</title>
-    </bookmark>
-    <bookmark href="https://javaup.chat/" id="98">
-      <title>Java技术知识库与实战项目 | JavaUp 技术&amp;实战</title>
-    </bookmark>
-    <bookmark href="https://xiaolincoding.com/" id="99">
-      <title>小林coding - 从图解计算机到后端面试全攻略</title>
-    </bookmark>
-    <bookmark href="https://javaguide.cn/" id="100">
-      <title>JavaGuide - 沉浸式阅读中</title>
-    </bookmark>
-    <bookmark href="https://javabetter.cn/" id="101">
-      <title>主页 | 二哥的Java进阶之路</title>
-    </bookmark>
-    <bookmark href="https://caomaolufei.github.io/AIInfraGuide/" id="102">
-      <title>AIInfraGuide - AI Infra全栈知识库</title>
-    </bookmark>
-    <bookmark href="https://programmercarl.com/" id="103">
-      <title>代码随想录-全网最全算法数据结构刷题学习路线|图文+视频教程|免费开源</title>
-    </bookmark>
-    <bookmark href="https://notes.kamacoder.com/" id="104">
-      <title>卡码笔记｜程序员面试题库，Java、C++、Go、Agent、大模型八股文</title>
-    </bookmark>
-    <bookmark href="https://juejin.cn/post/7628162491726102528" id="105">
-      <title>智能体面经</title>
-    </bookmark>
-  </folder>
   <folder id="31">
     <title>算法学习</title>
     <bookmark href="https://labuladong.online/zh/" id="87">
@@ -272,9 +158,48 @@
       <title>高频 SQL 50 题（基础版） - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
     </bookmark>
   </folder>
-</folder>
-<folder id="7">
-  <title>工具</title>
+  <folder id="39">
+    <title>GitHub</title>
+    <bookmark href="https://github.com/dashboard" id="119">
+      <title>GitHub</title>
+    </bookmark>
+    <bookmark href="https://ghfast.top/" id="120">
+      <title>GitHub Proxy</title>
+    </bookmark>
+    <bookmark href="https://gitee.com/" id="121">
+      <title>工作台 - Gitee.com</title>
+    </bookmark>
+  </folder>
+  <folder id="38">
+    <title>云服务</title>
+    <bookmark href="https://cloud.tencent.com.cn/?from=20060&amp;from_column=20060" id="117">
+      <title>腾讯云</title>
+    </bookmark>
+    <bookmark href="https://www.aliyun.com/product/bailian" id="118">
+      <title>阿里云</title>
+    </bookmark>
+  </folder>
+  <folder id="37">
+    <title>Mail</title>
+    <bookmark href="https://mail.163.com/js6/main.jsp?sid=ELhchMVPKCQyntpbNjiEPyYygfoAaunk&amp;df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D" id="115">
+      <title>nanguaouo@163.com</title>
+    </bookmark>
+    <bookmark href="https://app.wyx66.com/" id="116">
+      <title>邮箱管理系统</title>
+    </bookmark>
+    <bookmark href="https://mail.163.com/js6/main.jsp?sid=bLkTDwjNUPPZQAPfqIrjamKpCYNDINdN&amp;df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D" id="142">
+      <title>xujiajian4457网易邮箱</title>
+    </bookmark>
+    <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="42">
+      <title>Gmail</title>
+    </bookmark>
+  </folder>
+  <folder id="36">
+    <title>Remote</title>
+    <bookmark href="https://central.zerotier.com/network/633e31d8a29639ab" id="114">
+      <title>ZeroTier – Network Member Devices</title>
+    </bookmark>
+  </folder>
   <folder id="34">
     <title>VPN</title>
     <bookmark href="https://edu.shimo.men/" id="106">
@@ -292,6 +217,9 @@
     <bookmark href="https://priceai.cc/" id="110">
       <title>PriceAI | AI 低价卡网订阅与中转 API 比价雷达</title>
     </bookmark>
+    <bookmark href="https://ai.zan.top/" id="52">
+      <title>ZAN MaaS</title>
+    </bookmark>
   </folder>
   <folder id="35">
     <title>驱动</title>
@@ -305,128 +233,185 @@
       <title>雷柏网页驱动 | RAPOO HUB - 官方在线键鼠驱动</title>
     </bookmark>
   </folder>
-  <folder id="36">
-    <title>Remote</title>
-    <bookmark href="https://central.zerotier.com/network/633e31d8a29639ab" id="114">
-      <title>ZeroTier – Network Member Devices</title>
-    </bookmark>
-  </folder>
-  <folder id="37">
-    <title>Mail</title>
-    <bookmark href="https://mail.163.com/js6/main.jsp?sid=ELhchMVPKCQyntpbNjiEPyYygfoAaunk&amp;df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D" id="115">
-      <title>nanguaouo@163.com</title>
-    </bookmark>
-    <bookmark href="https://app.wyx66.com/" id="116">
-      <title>邮箱管理系统</title>
-    </bookmark>
-    <bookmark href="https://mail.163.com/js6/main.jsp?sid=bLkTDwjNUPPZQAPfqIrjamKpCYNDINdN&amp;df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D" id="142">
-      <title>xujiajian4457网易邮箱</title>
-    </bookmark>
-  </folder>
-  <folder id="38">
-    <title>云服务</title>
-    <bookmark href="https://cloud.tencent.com.cn/?from=20060&amp;from_column=20060" id="117">
-      <title>腾讯云</title>
-    </bookmark>
-    <bookmark href="https://www.aliyun.com/product/bailian" id="118">
-      <title>阿里云</title>
-    </bookmark>
-  </folder>
-  <folder id="39">
-    <title>GitHub</title>
-    <bookmark href="https://github.com/dashboard" id="119">
-      <title>GitHub</title>
-    </bookmark>
-    <bookmark href="https://ghfast.top/" id="120">
-      <title>GitHub Proxy</title>
-    </bookmark>
-    <bookmark href="https://gitee.com/" id="121">
-      <title>工作台 - Gitee.com</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://ip.net.coffee/gpt/" id="40">
-    <title>ChatGPT · Codex IP 检测 - IP纯净度 - ChatGPT IP 风险查询 - Net.Coffee</title>
-  </bookmark>
-  <bookmark href="https://mcp.desktopcommander.app/?utm_source=chatgpt.com" id="41">
-    <title>Desktop Commander Remote MCP - beta</title>
-  </bookmark>
-  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="42">
-    <title>Gmail</title>
-  </bookmark>
-</folder>
-<folder id="9">
-  <title>杂.</title>
-  <bookmark href="https://time.geekbang.org/" id="45">
-    <title>极客时间-学 AI ，用极客时间</title>
-  </bookmark>
-  <bookmark href="https://www.conventionalcommits.org/zh-hans/v1.0.0/" id="46">
-    <title>约定式提交</title>
-  </bookmark>
-  <bookmark href="https://www.modelscope.cn/home" id="50">
-    <title>首页 · 魔搭社区</title>
-  </bookmark>
-  <bookmark href="https://nanobot.wiki/cn/docs/0.3.0/getting-started/nanobot-overview" id="51">
-    <title>介绍 | nanobot docs</title>
-  </bookmark>
-  <bookmark href="https://ai.zan.top/" id="52">
-    <title>ZAN MaaS</title>
-  </bookmark>
-  <bookmark href="https://docs.github.com/zh/actions/tutorials/build-and-test-code/java-with-maven" id="53">
-    <title>使用 Maven 构建和测试 Java - GitHub 文档</title>
-  </bookmark>
-  <bookmark href="https://bugstack.cn/" id="128">
-    <title>小傅哥 bugstack 虫洞栈</title>
-  </bookmark>
-  <bookmark href="https://xiaoc7r.github.io/DiyJobResume/" id="129">
-    <title>简历工坊 · DiyJobResume</title>
-  </bookmark>
-  <bookmark href="https://finaldoc.cn/workspace" id="130">
-    <title>DOCX 文档格式工作台｜FinalDoc</title>
-  </bookmark>
-  <bookmark href="https://aws.amazon.com/cn/blogs/machine-learning/" id="131">
-    <title>人工智能</title>
-  </bookmark>
-  <bookmark href="https://github.com/ystemsrx/fuck-educoder-paste" id="132">
-    <title>ystemsrx/fuck-educoder-paste: 最新可用 - 完美解决【头歌 / 学习通】禁止复制粘贴问题</title>
-  </bookmark>
-  <bookmark href="https://open-design.ai/zh/" id="133">
-    <title>OpenDesign —— 最佳 Claude Design 开源替代</title>
-  </bookmark>
-  <bookmark href="https://dsh-plugin.org/zh" id="134">
-    <title>DeepSeek Harness 插件市场 - DSH Plugin 插件大全（下载与安装）</title>
-  </bookmark>
-  <folder id="8">
-    <title>电影</title>
-    <bookmark href="https://movie.douban.com/top250?start=0&amp;filter=" id="43">
-      <title>豆瓣电影 Top 250</title>
-    </bookmark>
-    <bookmark href="https://leetcode.cn/studyplan/top-100-liked/" id="90">
-      <title>LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
-    </bookmark>
-  </folder>
   <folder id="143">
-    <title>官方文档</title>
+    <title>文档学习</title>
     <bookmark href="https://dev.mysql.com/doc/refman/8.4/en/innodb-storage-engine.html" id="144">
       <title>MySQL</title>
     </bookmark>
+    <folder id="26">
+      <title>前端文档</title>
+      <bookmark href="https://developer.mozilla.org/zh-CN/" id="64">
+        <title>MDN Web Docs</title>
+      </bookmark>
+      <bookmark href="https://zh-hans.react.dev/" id="65">
+        <title>React 官方中文文档</title>
+      </bookmark>
+      <bookmark href="https://www.tslang.com.cn/zh/docs/handbook/2/basic-types.html" id="66">
+        <title>TypeScript 中文文档：Documentation - 基础</title>
+      </bookmark>
+      <bookmark href="https://zh.javascript.info/" id="67">
+        <title>现代 JavaScript 教程</title>
+      </bookmark>
+      <bookmark href="https://www.tailwindcss.cn/" id="68">
+        <title>Tailwind CSS - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站。 | TailwindCSS中文文档 | TailwindCSS中文网</title>
+      </bookmark>
+      <bookmark href="https://cn.vuejs.org/" id="69">
+        <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
+      </bookmark>
+      <bookmark href="https://www.axios-http.cn/docs/intro" id="70">
+        <title>起步 | Axios中文文档 | Axios中文网</title>
+      </bookmark>
+      <bookmark href="https://eslint.org/" id="71">
+        <title>eslint</title>
+      </bookmark>
+      <bookmark href="https://element-plus.org/" id="72">
+        <title>Element Plus</title>
+      </bookmark>
+      <bookmark href="https://vitejs.cn/vite3-cn/guide/" id="73">
+        <title>Vite 官方中文文档</title>
+      </bookmark>
+      <bookmark href="https://www.webpackjs.com/concepts/" id="139">
+        <title>webpack 中文文档</title>
+      </bookmark>
+    </folder>
+    <folder id="127">
+      <title>AI框架学习</title>
+      <bookmark href="https://blog.csdn.net/Sunhen_Qiletian/article/details/159317568?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=Langchain%E6%9C%80%E8%AF%A6%E7%BB%86&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-159317568.142^v102^control&amp;spm=1018.2226.3001.4187" id="135">
+        <title>LangChain最详细教程之使用概述（一）_langchain使用-CSDN博客</title>
+      </bookmark>
+      <bookmark href="https://springframework.org.cn/projects/spring-ai/" id="136">
+        <title>Spring AI - Spring 框架</title>
+      </bookmark>
+      <bookmark href="https://agentscope.io/" id="137">
+        <title>AgentScope — Where Agents Come Alive</title>
+      </bookmark>
+      <bookmark href="https://ragflow.com.cn/" id="138">
+        <title>RAGFlow 引擎</title>
+      </bookmark>
+    </folder>
+    <folder id="33">
+      <title>八股分享</title>
+      <bookmark href="https://www.mianshiya.com/" id="97">
+        <title>面试鸭</title>
+      </bookmark>
+      <bookmark href="https://javaup.chat/" id="98">
+        <title>Java技术知识库与实战项目 | JavaUp 技术&amp;实战</title>
+      </bookmark>
+      <bookmark href="https://xiaolincoding.com/" id="99">
+        <title>小林coding - 从图解计算机到后端面试全攻略</title>
+      </bookmark>
+      <bookmark href="https://javaguide.cn/" id="100">
+        <title>JavaGuide - 沉浸式阅读中</title>
+      </bookmark>
+      <bookmark href="https://javabetter.cn/" id="101">
+        <title>主页 | 二哥的Java进阶之路</title>
+      </bookmark>
+      <bookmark href="https://caomaolufei.github.io/AIInfraGuide/" id="102">
+        <title>AIInfraGuide - AI Infra全栈知识库</title>
+      </bookmark>
+      <bookmark href="https://programmercarl.com/" id="103">
+        <title>代码随想录-全网最全算法数据结构刷题学习路线|图文+视频教程|免费开源</title>
+      </bookmark>
+      <bookmark href="https://notes.kamacoder.com/" id="104">
+        <title>卡码笔记｜程序员面试题库，Java、C++、Go、Agent、大模型八股文</title>
+      </bookmark>
+      <bookmark href="https://juejin.cn/post/7628162491726102528" id="105">
+        <title>智能体面经</title>
+      </bookmark>
+    </folder>
+    <folder id="140">
+      <title>知乎专栏</title>
+      <bookmark href="https://zhuanlan.zhihu.com/p/2058281342476064718" id="141">
+        <title>数据驱动的 Harness 训练：迭代式审计与 AI 产物的质量控制 - 知乎</title>
+      </bookmark>
+    </folder>
   </folder>
-  <bookmark href="https://linux.do/" id="11">
-    <title>LINUX DO - 新的理想型社区</title>
+</folder>
+<folder id="8">
+  <title>电影</title>
+  <bookmark href="https://movie.douban.com/top250?start=0&amp;filter=" id="43">
+    <title>豆瓣电影 Top 250</title>
   </bookmark>
-  <bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
-    <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
+  <bookmark href="https://leetcode.cn/studyplan/top-100-liked/" id="90">
+    <title>LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
   </bookmark>
 </folder>
-<bookmark href="https://opencode.ai/console/org_01M6KF451F3E5XNXTZ4121VX3X/go" id="146">
-  <title>Go | OpenCode Console</title>
-</bookmark>
-<bookmark href="https://github.com/adongwanai/AgentGuide/blob/main/docs/02-tech-stack/agent-evaluation-complete-guide.md#6-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%AB%E6%AD%A5%E8%B7%AF%E7%BA%BF%E5%9B%BE" id="147">
-  <title>AgentGuide/docs/02-tech-stack/agent-evaluation-complete-guide.md at main · adongwanai/AgentGuide</title>
-</bookmark>
-<bookmark href="https://github.com/sherlock-project/sherlock" id="148">
-  <title>sherlock-project/sherlock: Hunt down social media accounts by username across social networks</title>
-</bookmark>
-<bookmark href="https://www.bentopdf.com/zh" id="145">
-  <title>BentoPDF - 免费在线 PDF 工具 | 隐私优先的 PDF 工具箱</title>
+<folder id="149">
+  <title>工具箱</title>
+  <bookmark href="https://xiaoc7r.github.io/DiyJobResume/" id="153">
+    <title>简历工坊 · DiyJobResume</title>
+  </bookmark>
+  <bookmark href="https://finaldoc.cn/workspace" id="154">
+    <title>DOCX 文档格式工作台｜FinalDoc</title>
+  </bookmark>
+  <bookmark href="https://ip.net.coffee/gpt/" id="155">
+    <title>ChatGPT · Codex IP 检测 - IP纯净度 - ChatGPT IP 风险查询 - Net.Coffee</title>
+  </bookmark>
+  <bookmark href="https://mcp.desktopcommander.app/?utm_source=chatgpt.com" id="156">
+    <title>Desktop Commander Remote MCP - beta</title>
+  </bookmark>
+  <bookmark href="https://www.bentopdf.com/zh" id="145">
+    <title>BentoPDF - 免费在线 PDF 工具 | 隐私优先的 PDF 工具箱</title>
+  </bookmark>
+</folder>
+<folder id="27">
+  <title>项目学习</title>
+  <folder id="74">
+    <title>苍穹外卖</title>
+    <bookmark href="https://blog.csdn.net/ruanfun/article/details/132655720?ops_request_misc=elastic_search_misc&amp;request_id=73224f577d9858ba71e7dc746afa07ad&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-132655720-null-null.142^v102^control&amp;utm_term=%E8%8B%8D%E7%A9%B9%E5%A4%96%E5%8D%96&amp;spm=1018.2226.3001.4187" id="122">
+      <title>上</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/RuanFun/article/details/135861498?spm=1001.2014.3001.5502" id="123">
+      <title>中</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/RuanFun/article/details/135954214?spm=1001.2014.3001.5502" id="124">
+      <title>下</title>
+    </bookmark>
+  </folder>
+  <folder id="75">
+    <title>DoVideoAI</title>
+    <bookmark href="https://my.feishu.cn/wiki/K5PzwchG3iU8gLk8eomcqGIUnDe" id="125">
+      <title>⁠‍​⁠​⁠‍​​​‍​‍‬⁠‌​​​‌​​​​⁠‬‬​​‍﻿‬⁠​​​​⁠‬‌​​‍​​‌‬​​项目拷打 副本 - 飞书云文档</title>
+    </bookmark>
+    <bookmark href="https://github.com/Xiaoc7r/DOVideo-AI" id="126">
+      <title>Xiaoc7r/DOVideo-AI: 一个面向长视频内容理解的 Video Agent 平台。</title>
+    </bookmark>
+  </folder>
+  <folder id="151">
+    <title>开源项目学习</title>
+    <bookmark href="https://nanobot.wiki/cn/docs/0.3.0/getting-started/nanobot-overview" id="159">
+      <title>介绍 | nanobot docs</title>
+    </bookmark>
+  </folder>
+  <folder id="152">
+    <title>GitHub 项目</title>
+    <bookmark href="https://github.com/TencentCloud/TencentDB-Agent-Memory" id="160">
+      <title>TencentCloud/TencentDB-Agent-Memory: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</title>
+    </bookmark>
+    <bookmark href="https://github.com/adongwanai/AgentGuide/blob/main/docs/02-tech-stack/agent-evaluation-complete-guide.md#6-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%AB%E6%AD%A5%E8%B7%AF%E7%BA%BF%E5%9B%BE" id="147">
+      <title>AgentGuide/docs/02-tech-stack/agent-evaluation-complete-guide.md at main · adongwanai/AgentGuide</title>
+    </bookmark>
+    <bookmark href="https://github.com/sherlock-project/sherlock" id="148">
+      <title>sherlock-project/sherlock: Hunt down social media accounts by username across social networks</title>
+    </bookmark>
+    <bookmark href="https://didilili.github.io/ai-agents-from-zero/#/" id="77">
+      <title>AI 智能体实战速成指南：从零到企业级落地 | ai-agents-from-zero</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://huacaibc.com/" id="76">
+    <title>花菜编程网 - 专业编程学习平台</title>
+  </bookmark>
+</folder>
+<folder id="150">
+  <title>工具网站待了解</title>
+  <bookmark href="https://signaldeck.tech/" id="157">
+    <title>SignalDeck CI — Cypress &amp; Playwright Testing Without CI Pipelines</title>
+  </bookmark>
+  <bookmark href="https://github.com/volcengine/OpenViking/tree/main" id="158">
+    <title>volcengine/OpenViking: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</title>
+  </bookmark>
+</folder>
+<bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
+  <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
 </bookmark>
 </xbel>
