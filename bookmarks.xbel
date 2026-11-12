@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :160: for Floccus bookmark sync browser extension -->
+<!--- highestId :161: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
@@ -332,9 +332,6 @@
   <bookmark href="https://movie.douban.com/top250?start=0&amp;filter=" id="43">
     <title>豆瓣电影 Top 250</title>
   </bookmark>
-  <bookmark href="https://leetcode.cn/studyplan/top-100-liked/" id="90">
-    <title>LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
-  </bookmark>
 </folder>
 <folder id="149">
   <title>工具箱</title>
@@ -352,6 +349,9 @@
   </bookmark>
   <bookmark href="https://www.bentopdf.com/zh" id="145">
     <title>BentoPDF - 免费在线 PDF 工具 | 隐私优先的 PDF 工具箱</title>
+  </bookmark>
+  <bookmark href="https://www.datalab.to/" id="161">
+    <title>High-Precision Document Parsing and Extraction API | Datalab</title>
   </bookmark>
 </folder>
 <folder id="27">
@@ -413,5 +413,8 @@
 </folder>
 <bookmark href="https://ccn696z3yjfq.feishu.cn/base/X55nbcY4jace7hssRaFc65iCnJz?table=tbl70JEO0CiTwa91&amp;view=vew1bmxNW7" id="10">
   <title>‌‍​⁣​​​‌‬​‌﻿⁤​‬‌⁤​⁣⁡‬​⁤‍⁡⁡⁣⁣⁣⁤‬​⁢﻿⁡⁣⁡‬‍‌‍‍⁢﻿​⁣‬⁢‍‬hot100压力刷题 - 飞书云文档</title>
+</bookmark>
+<bookmark href="https://leetcode.cn/studyplan/top-100-liked/" id="90">
+  <title>LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
 </bookmark>
 </xbel>
