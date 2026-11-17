@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :161: for Floccus bookmark sync browser extension -->
+<!--- highestId :162: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
@@ -396,6 +396,9 @@
     </bookmark>
     <bookmark href="https://didilili.github.io/ai-agents-from-zero/#/" id="77">
       <title>AI 智能体实战速成指南：从零到企业级落地 | ai-agents-from-zero</title>
+    </bookmark>
+    <bookmark href="https://github.com/Mai-xiyu/Codex-Prompt" id="162">
+      <title>Mai-xiyu/Codex-Prompt: Rational engineering system prompt for Codex and LLMs — focused on accuracy, software engineering, AI, security research, bug bounty, and reverse engineering. | 面向 Codex 与 LLM 的理性工程系统提示词：强调准确性、软件工程、AI、网络安全、漏洞研究与逆向工程。</title>
     </bookmark>
   </folder>
   <bookmark href="https://huacaibc.com/" id="76">
