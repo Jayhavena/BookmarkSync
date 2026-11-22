@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :165: for Floccus bookmark sync browser extension -->
+<!--- highestId :167: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/?spm_id_from=333.1365.0.0" id="3">
   <title>哔哩哔哩</title>
@@ -362,6 +362,9 @@
   <bookmark href="http://106.55.32.177:8081/" id="165">
     <title>CodeNova — 编程实训平台</title>
   </bookmark>
+  <bookmark href="https://github.com/ruanyf/weekly" id="166">
+    <title>ruanyf/weekly: 科技爱好者周刊，每周五发布</title>
+  </bookmark>
 </folder>
 <folder id="27">
   <title>项目学习</title>
@@ -428,5 +431,8 @@
 </bookmark>
 <bookmark href="https://leetcode.cn/studyplan/top-100-liked/" id="90">
   <title>LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
+</bookmark>
+<bookmark href="https://oil-oil.github.io/selector/" id="167">
+  <title>Selector — 可视化元素选择器</title>
 </bookmark>
 </xbel>
